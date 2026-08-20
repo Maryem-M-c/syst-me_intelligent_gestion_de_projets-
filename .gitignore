@@ -1,0 +1,47 @@
+# =========================
+# Python / FastAPI
+# =========================
+ia_python/__pycache__/
+ia_python/*.pyc
+ia_python/.venv/
+ia_python/venv/
+ia_python/.env
+
+# =========================
+# Laravel
+# =========================
+backend_laravel/.env
+backend_laravel/vendor/
+backend_laravel/storage/logs/*
+backend_laravel/storage/framework/cache/*
+backend_laravel/storage/framework/sessions/*
+backend_laravel/storage/framework/views/*
+backend_laravel/bootstrap/cache/*.php
+
+# =========================
+# Flutter / Dart
+# =========================
+project_flutter/.dart_tool/
+project_flutter/build/
+project_flutter/.flutter-plugins
+project_flutter/.flutter-plugins-dependencies
+project_flutter/.packages
+project_flutter/pubspec.lock
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS
+# =========================
+Thumbs.db
+.DS_Store
+
+# =========================
+# Environment / secrets
+# =========================
+.env
+*.env
