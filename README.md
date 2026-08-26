@@ -83,11 +83,11 @@ Il permet notamment de :
 
 ### Tableau de bord administrateur
 <img width="264" height="472" alt="Capture d&#39;écran 2026-08-17 230808" src="https://github.com/user-attachments/assets/9c72981b-3d62-406f-9c42-544036016ff6" />
-<img width="266" height="472" alt="Capture d&#39;écran 2026-08-17 231039" src="https://github.com/user-attachments/assets/573ac536-bb7e-40ce-9fb9-a0b1e6aac183" />
-<img width="288" height="476" alt="Capture d&#39;écran 2026-08-09 195537" src="https://github.com/user-attachments/assets/2fe6bf67-8526-4ca0-8255-7a75e2279e06" />
-<img width="283" height="472" alt="Capture d&#39;écran 2026-08-09 195637" src="https://github.com/user-attachments/assets/aa47c98e-1332-4c2a-abca-394091701575" />
-<img width="269" height="479" alt="Capture d&#39;écran 2026-08-18 161541" src="https://github.com/user-attachments/assets/edd68b4a-c62f-4b5c-b53b-d3e451ac718d" />
-<img width="286" height="473" alt="Capture d&#39;écran 2026-08-09 195701" src="https://github.com/user-attachments/assets/18fe4d2c-f4da-428c-bbbf-0bbf21dbed85" />
+<img width="264" height="472" alt="Capture d&#39;écran 2026-08-17 231039" src="https://github.com/user-attachments/assets/573ac536-bb7e-40ce-9fb9-a0b1e6aac183" />
+<img width="264" height="476" alt="Capture d&#39;écran 2026-08-09 195537" src="https://github.com/user-attachments/assets/2fe6bf67-8526-4ca0-8255-7a75e2279e06" />
+<img width="264" height="472" alt="Capture d&#39;écran 2026-08-09 195637" src="https://github.com/user-attachments/assets/aa47c98e-1332-4c2a-abca-394091701575" />
+<img width="264" height="479" alt="Capture d&#39;écran 2026-08-18 161541" src="https://github.com/user-attachments/assets/edd68b4a-c62f-4b5c-b53b-d3e451ac718d" />
+<img width="264" height="473" alt="Capture d&#39;écran 2026-08-09 195701" src="https://github.com/user-attachments/assets/18fe4d2c-f4da-428c-bbbf-0bbf21dbed85" />
 
 
 ---
@@ -108,9 +108,9 @@ Il permet de :
 
 ###  Tableau de bord du chef de projet
 
-<img width="287" height="468" alt="Capture d&#39;écran 2026-08-09 195215" src="https://github.com/user-attachments/assets/111bb0b4-eac0-4894-8711-1870d64b3ac0" />
-<img width="287" height="475" alt="Capture d&#39;écran 2026-08-09 195244" src="https://github.com/user-attachments/assets/f887402a-cbd4-46d6-b7f1-facf1e99723c" />
-<img width="290" height="488" alt="Capture d&#39;écran 2026-08-17 192924" src="https://github.com/user-attachments/assets/d32645b9-c590-4201-a330-fd21e2c190f5" />
+<img width="264" height="468" alt="Capture d&#39;écran 2026-08-09 195215" src="https://github.com/user-attachments/assets/111bb0b4-eac0-4894-8711-1870d64b3ac0" />
+<img width="264" height="475" alt="Capture d&#39;écran 2026-08-09 195244" src="https://github.com/user-attachments/assets/f887402a-cbd4-46d6-b7f1-facf1e99723c" />
+<img width="264" height="488" alt="Capture d&#39;écran 2026-08-17 192924" src="https://github.com/user-attachments/assets/d32645b9-c590-4201-a330-fd21e2c190f5" />
 
 
 ###  Demandes clients avec assistance IA
@@ -168,9 +168,9 @@ Grâce à l'IA, il peut répondre à quelques questions ciblées afin de transfo
 
 ###  Création d'une demande de projet
 
-<img width="296" height="479" alt="Capture d&#39;écran 2026-08-09 200053" src="https://github.com/user-attachments/assets/82b2bbad-1c21-47fd-966d-f4832469c243" />
-<img width="286" height="466" alt="Capture d&#39;écran 2026-08-09 200244" src="https://github.com/user-attachments/assets/e08ecf1c-e74c-421c-8240-6179c3fb0c95" />
-<img width="284" height="468" alt="Capture d&#39;écran 2026-08-09 200329" src="https://github.com/user-attachments/assets/9cacba4c-f48d-4b95-a3d6-b771b4da9e92" />
+<img width="264" height="479" alt="Capture d&#39;écran 2026-08-09 200053" src="https://github.com/user-attachments/assets/82b2bbad-1c21-47fd-966d-f4832469c243" />
+<img width="264" height="466" alt="Capture d&#39;écran 2026-08-09 200244" src="https://github.com/user-attachments/assets/e08ecf1c-e74c-421c-8240-6179c3fb0c95" />
+<img width="264" height="468" alt="Capture d&#39;écran 2026-08-09 200329" src="https://github.com/user-attachments/assets/9cacba4c-f48d-4b95-a3d6-b771b4da9e92" />
 <img width="287" height="473" alt="Capture d&#39;écran 2026-08-09 200341" src="https://github.com/user-attachments/assets/6ad7bfbc-6dcd-4d41-a7cf-6dde730d079e" />
 
 ---
